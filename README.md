@@ -33,3 +33,8 @@ This is a python project and has been tested on python 3.8.
 1. Have a react/vue app that calls into the python app. 
 1. Have development all running in a kubernetes cluster that can also
 seemlessly and effortlessly deploy it.
+
+
+I still think this is a good tihng to do...
+But! I think that information disparity might be an even larger factor then the behavioral aspect of this.
+Although behavior economics makes it clear that we are monkeys that think we are smart but are controlled by our lizard brains. Modeling information disparity between parties might be more useful then modeling things like loss aversion, anchoring, over trust to trivial amounts of data. etc etc
